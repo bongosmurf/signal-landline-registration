@@ -1,6 +1,6 @@
 #!/bin/bash
 # ============================================================
-# signal_registration_helper.sh
+# signal_registration_helper.sh Ver.1.0.0 
 # MIT License
 # 2027 by Michael Ionescu
 # https://github.com/bongosmurf/signal-landline-registration/
