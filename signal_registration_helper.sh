@@ -12,10 +12,10 @@
 #   1. Datei nach /config/scripts/signal_registration_helper.sh kopieren
 #   2. Im HA-Terminal: bash /config/scripts/signal_registration_helper.sh
 # ============================================================
-DEBUG=true
+DEBUG=false
 # ── Konfiguration ────────────────────────────────────────
 HA_IP="homeassistant"    # hostname oder IP deines HA-Hosts – anpassen falls nötig
-API_PORT="8516"          # TCP-Port von Add-on „Signal Messenger" in Mode JSON-RPC
+API_PORT="8516"          # TCP-Port von Add-on „Signal Messenger" (vorrübergehend) in Mode normal
 # ── Konfiguration (optional) ─────────────────────────────
 PHONE=""                 # kann auch vorab konfiguriert werden
 # ─────────────────────────────────────────────────────────
