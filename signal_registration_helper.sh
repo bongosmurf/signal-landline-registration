@@ -1,5 +1,10 @@
 #!/bin/bash
 # ============================================================
+# signal_registration_helper.sh
+# MIT License
+# 2027 by Michael Ionescu
+# https://github.com/bongosmurf/signal-landline-registration/
+# ============================================================
 # Signal Festnetz-Registrierung für Home Assistant
 # Kompatibel mit signal-cli-rest-api v0.98.0 (JSON-RPC Mode)
 # ============================================================
